@@ -408,10 +408,6 @@
     align-self: center;
   }
 
-  .archeopteryx {
-    width: 100%;
-  }
-
 }
 
 @media only screen and (min-width: 38em) {
@@ -629,15 +625,15 @@
 @media only screen and (min-width: 60em) {
 
   .archeopteryx {
-    width: 25%;
+    width: 33.3333%;
   }
 
   .pteranodon {
-    width: 25%;
+    width: 33.3333%;
   }
 
   .rhamphorhynchus {
-    width: 25%;
+    width: 33.3333%;
   }
 
   .unit-l-hidden,
