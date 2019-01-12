@@ -841,19 +841,3 @@
   }
 
 }
-
-@media only screen and (min-width: 90em) {
-
-  .archeopteryx {
-    width: 50%;
-  }
-
-  .pteranodon {
-    width: 50%;
-  }
-
-  .rhamphorhynchus {
-    display: none;
-  }
-
-}
